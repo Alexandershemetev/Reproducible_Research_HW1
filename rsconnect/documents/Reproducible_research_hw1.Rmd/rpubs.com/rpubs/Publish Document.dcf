@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/651980/53c4cbb4eac14d18851c6e0366b1aaf7
+bundleId: https://api.rpubs.com/api/v1/document/651980/53c4cbb4eac14d18851c6e0366b1aaf7
+url: http://rpubs.com/alexshemetev/651980/edit
+when: 1598262635.81887
+lastSyncTime: 1598262635.81887
